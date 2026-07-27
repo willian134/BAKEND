@@ -5,8 +5,10 @@
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "scripts": {
-    "postinstall": "DATABASE_URL=\"postgresql://postgres:postgres@localhost:5432/postgres\" prisma generate",
+
+"scripts": {
+  "postinstall": "prisma generate"
+},
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
