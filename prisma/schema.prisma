@@ -4,6 +4,7 @@ generator client {
 
 datasource db {
   provider = "postgresql"
+  url      = env("DATABASE_URL")
 }
 
 model Usuario {
@@ -17,9 +18,9 @@ model Usuario {
   rol              String           @default("usuario") // "usuario" | "bibliotecario" | "admin"
   tipoPersona      String           @default("DOCENTE")  // "DOCENTE" | "ESTUDIANTE" | "INVITADO" | "STAFF"
   iniciales        String?
-  tipoDocumento     String?         // solo para invitados/externos: "cedula" | "pasaporte"
-  numeroDocumento   String?         // para reconocer a un invitado que vuelve
-  activo            Boolean         @default(true) // soft-delete: false = "eliminado"
+  tipoDocumento    String?          // solo para invitados/externos: "cedula" | "pasaporte"
+  numeroDocumento  String?          // para reconocer a un invitado que vuelve
+  activo           Boolean          @default(true) // soft-delete: false = "eliminado"
   prestamosActivos Int              @default(0)
   carreras         UsuarioCarrera[]
   registros        Registro[]
@@ -49,7 +50,7 @@ model Ciclo {
   id               Int             @id @default(autoincrement())
   numero           Int
   jornada          String?         // jornada habitual de este ciclo: "matutino" | "vespertino" | "nocturno" — opcional, para auto-relleno
-  usuarioCarrera   UsuarioCarrera  @relation(fields: [usuarioCarreraId], references: [id], onDelete: Cascade)
+  usuarioCarrera   UsuarioCarrera @relation(fields: [usuarioCarreraId], references: [id], onDelete: Cascade)
   usuarioCarreraId Int
   materias         Materia[]
 }
@@ -148,13 +149,13 @@ model EventoPublico {
 // Registro inmutable de acciones administrativas sensibles — nadie puede
 // editarlo ni borrarlo desde la app, ni siquiera admin. Solo lectura.
 model Auditoria {
-  id          Int      @id @default(autoincrement())
-  usuarioId   Int      // quién hizo la acción (el admin)
-  accion      String   // "eliminar_libro" | "editar_docente" | "cambiar_rol" | etc.
-  entidad     String   // "Libro" | "Usuario" | etc.
-  entidadId   Int?
-  detalle     String?  // texto libre, ej. "cambió rol de bibliotecario a admin"
-  fecha       DateTime @default(now())
+  id        Int      @id @default(autoincrement())
+  usuarioId Int      // quién hizo la acción (el admin)
+  accion    String   // "eliminar_libro" | "editar_docente" | "cambiar_rol" | etc.
+  entidad   String   // "Libro" | "Usuario" | etc.
+  entidadId Int?
+  detalle   String?  // texto libre, ej. "cambió rol de bibliotecario a admin"
+  fecha     DateTime @default(now())
 }
 
 model Actividad {
