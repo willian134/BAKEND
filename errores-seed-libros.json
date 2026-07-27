@@ -1,0 +1,4510 @@
+[
+  {
+    "codigo": "SOFT.004.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.1F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.11",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.21",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.21A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.21B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.23",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.23A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.24F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.26A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.3A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.3B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.3C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.3D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.31",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.32",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.33",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.33A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.33B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.33C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.33D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.35",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.51",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.53",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.004.54F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.11",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.11B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.11C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.12",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.12A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.13",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.13A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.13B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.13C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.23F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.24",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.24A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.26",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.26A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.26B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.26C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.3E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.34",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.34A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.34B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.34B-2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.34C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.5H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.51",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.51A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.51B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.52",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.52A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.53",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.53A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.53B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.005.54",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.006.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "SOFT.006.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2+",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2++",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2A+",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2A++",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2A+++",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2B+",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2B++",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2B+++",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.2N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K6",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21K7",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.21N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.22",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.23",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.23A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.24G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25C1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25C2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25C3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.25N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.263",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.263A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.32",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.32A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.32B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.32C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.32D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.33L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.35R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV. 050.35S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV. 050.35T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.37F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.41",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.41A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.41B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.42",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.42A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.42B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.42C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.44M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.45K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.46G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.52",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.53E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.7H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.72",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.72A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.72B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.72C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "REV.050.72D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.101",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.107A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.107B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.107C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.107D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.150",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.150.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.150.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.155",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "PSC.158.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.301",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.301.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.302",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.302A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.306",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.307",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.307A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.307B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.307C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.328",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.330",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.330A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.330.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.339",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.339A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.342.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.342.23",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.342.233",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.342.243",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.345.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.15",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7V",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7W",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7X",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.7Y",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.71J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.370.72",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.371.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.371.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.371.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.372.31",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.372.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCSS.378F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LENG.401",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.403",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.421.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.424",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.424A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.2Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.5B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.5C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.427.5D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.428.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.428.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "INGL.428.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.510.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.511",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.513.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.513.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.515",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.515.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.516",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.518",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.518A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.519.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.519.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MAT.530.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "BIO.571",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.6",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.6A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.6B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DICC.603.6C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TCN.608",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.610",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.610A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.71",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.71A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610713",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.72",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.72A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.721",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.723",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.731",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.731A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.75",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.751",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.751A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.751B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.751C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.752",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.761",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.761A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.761B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.762",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.762A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.762B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.763",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.764",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.764A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.765",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.766",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.766A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ENF.610.766B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.612",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.613.7",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.615",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CCMM.616",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ELCT.621.31",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ING.629.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ING.629.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ING.629.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ING.629.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.1I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.11",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.11B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.11C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.111",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.111A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.111B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.114",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.22",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.25",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.251A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.251B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.26",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.311P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.312E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.32",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.321F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.322F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.324J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.331",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.333",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.333A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.341",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.341A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3411",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3412",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3412A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3412B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3412C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3412D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3413",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3413A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3413B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.3414K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.341621",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.352",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.352A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.352B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.353",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.353A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.381",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.381A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.4A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.41",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.41A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.41B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5F-2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5G-2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.5H-2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.6",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.611",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.611A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.641.671",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.1K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.644.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.644.2G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "GAST.642.2H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.648.43",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.648.43A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.2G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.657.3B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658.10",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658.10A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658.10B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.10C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.11F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.12O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.13F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.14",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.14A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.14B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.14C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.15",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658.15A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "CONT.658.15B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TT.HH.658.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.31",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.32",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.32A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.32B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TT.HH.658.33",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41V",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41W",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41X",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41Y",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.41Z",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.42",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.42A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.42B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.42C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.42D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.6",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.6A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.6B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.6C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.8",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81V",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81W",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81X",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81Y",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81Z",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZA",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZB",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZC",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZD",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZE",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZF",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZG",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.81ZH",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.82Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.83",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.83A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.83B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.83C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.83D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "MARK.658.9",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.701.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.701.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.701.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.701.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.701.3A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.701.3B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "FIL.701.3C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.703",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.709",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.709A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.709B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.709C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ARQ.720",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ARQ.720A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ARQ.721",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ARQ.721A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "ARQ.729",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.31",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.31A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.32",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.32A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.32B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ. 741.4A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.51",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.51A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.51B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.5952",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601V",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.601W",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.6011",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.602O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.603K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.604M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.605",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.607N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.609",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.609A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.609B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.609C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.610",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.741.610A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.742.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.743.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.745.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.745.4A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.750",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.758",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.759",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.760",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.760A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.778.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.778.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.778.5B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.779.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.779.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.779.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.779.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "DISÑ.779.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.802.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.808",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.861",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.211",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.263",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.263A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271V",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.271W",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.272",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.272A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.272B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.272C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.273S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.274",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.274A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.274B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.275",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.276",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.276A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.277",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.277A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.278",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.279",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.311",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.313",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.371",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "LIT.863.41",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.901.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.902.5",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.902.5A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.904.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.905.1131K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.2A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.2B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.2C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.3",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.3A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.3B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.907.3C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.908",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.908.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.1H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.11",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.11A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.11B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.12",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.12A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.12B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.12C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.14",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.16",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.16A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.16B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.2",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.22",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.23",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.23A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.23B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.24",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.25F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.251",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.41J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.43",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44D",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44E",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44F",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44G",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44H",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44I",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44J",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44K",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44L",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44M",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44N",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44O",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44P",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44Q",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44R",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44S",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44T",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.44U",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.51",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.51A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.522",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "TUR.910.62",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.920",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.920A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980.4",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980.4A",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980.4B",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980.4C",
+    "error": "fetch failed"
+  },
+  {
+    "codigo": "HST.980.5",
+    "error": "fetch failed"
+  }
+]

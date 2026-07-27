@@ -1,0 +1,168 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Usuario {
+  id               Int              @id @default(autoincrement())
+  nombre           String           // combinado "APELLIDOS NOMBRES" — lo usan reportes, certificados, tablas, RFID
+  apellidos        String?          // capturado por separado; se combina en `nombre` al guardar
+  nombres          String?          // capturado por separado; se combina en `nombre` al guardar
+  email            String?          @unique
+  password         String?
+  rfid             String?          @unique
+  rol              String           @default("usuario") // "usuario" | "bibliotecario" | "admin"
+  tipoPersona      String           @default("DOCENTE")  // "DOCENTE" | "ESTUDIANTE" | "INVITADO" | "STAFF"
+  iniciales        String?
+  tipoDocumento     String?         // solo para invitados/externos: "cedula" | "pasaporte"
+  numeroDocumento   String?         // para reconocer a un invitado que vuelve
+  activo            Boolean         @default(true) // soft-delete: false = "eliminado"
+  prestamosActivos Int              @default(0)
+  carreras         UsuarioCarrera[]
+  registros        Registro[]
+  prestamos        Prestamo[]
+  createdAt        DateTime         @default(now())
+
+  @@index([tipoPersona])
+  @@index([rol])
+}
+
+model Carrera {
+  id       Int              @id @default(autoincrement())
+  nombre   String           @unique
+  usuarios UsuarioCarrera[]
+}
+
+model UsuarioCarrera {
+  id        Int     @id @default(autoincrement())
+  usuario   Usuario @relation(fields: [usuarioId], references: [id])
+  usuarioId Int
+  carrera   Carrera @relation(fields: [carreraId], references: [id])
+  carreraId Int
+  ciclos    Ciclo[]
+}
+
+model Ciclo {
+  id               Int             @id @default(autoincrement())
+  numero           Int
+  jornada          String?         // jornada habitual de este ciclo: "matutino" | "vespertino" | "nocturno" — opcional, para auto-relleno
+  usuarioCarrera   UsuarioCarrera  @relation(fields: [usuarioCarreraId], references: [id], onDelete: Cascade)
+  usuarioCarreraId Int
+  materias         Materia[]
+}
+
+model Materia {
+  id      Int    @id @default(autoincrement())
+  nombre  String
+  ciclo   Ciclo  @relation(fields: [cicloId], references: [id], onDelete: Cascade)
+  cicloId Int
+}
+
+model Libro {
+  id                Int        @id @default(autoincrement())
+  codigo            String     @unique
+  titulo            String
+  autor             String
+  anio              Int
+  categoria         String
+  totalEjemplares   Int        @default(1)
+  disponibles       Int        @default(1)
+  descripcion       String
+  tipo              String     @default("LIBRO")
+  isbn              String?
+  codigoDewey       String?
+  codigoCutter      String?
+  edicion           String?
+  paginas           Int?
+  editorial         String?
+  idioma            String?
+  soloEnSala        Boolean    @default(false)
+  programa          String?
+  palabrasClave     String?
+  citaBibliografica String?
+  activo            Boolean    @default(true) // soft-delete: false = "eliminado"
+  prestamos         Prestamo[]
+  createdAt         DateTime   @default(now())
+
+  @@index([activo])
+  @@index([programa])
+}
+
+model Prestamo {
+  id                      Int       @id @default(autoincrement())
+  usuario                 Usuario   @relation(fields: [usuarioId], references: [id])
+  usuarioId               Int
+  libro                   Libro     @relation(fields: [libroId], references: [id])
+  libroId                 Int
+  fechaPrestamo           DateTime  @default(now())
+  fechaDevolucionEsperada DateTime?
+  fechaDevolucion         DateTime?
+  activo                  Boolean   @default(true)
+  nombreInvitado          String?
+  tipoDocumento           String?
+  numeroDocumento         String?
+  avisoEnviado            Boolean   @default(false) // evita mandar el correo de vencimiento más de una vez
+
+  @@index([fechaPrestamo])
+  @@index([activo])
+}
+
+model Registro {
+  id        Int      @id @default(autoincrement())
+  tipo      String
+  usuario   Usuario  @relation(fields: [usuarioId], references: [id])
+  usuarioId Int
+  actividad String?
+  detalle   String?
+  carrera   String?
+  ciclo     Int?
+  materia   String?
+  jornada   String?
+  libroId   Int?
+  fecha     DateTime @default(now())
+
+  @@index([carrera])
+  @@index([materia])
+  @@index([fecha])
+}
+
+model RfidScan {
+  id        Int      @id @default(autoincrement())
+  uid       String
+  leido     Boolean  @default(false)
+  createdAt DateTime @default(now())
+}
+
+model EventoPublico {
+  id       Int      @id @default(autoincrement())
+  tipo     String   // "visita_pagina" | "busqueda" | "clic_libro"
+  programa String?
+  texto    String?
+  libroId  Int?
+  fecha    DateTime @default(now())
+}
+
+// Registro inmutable de acciones administrativas sensibles — nadie puede
+// editarlo ni borrarlo desde la app, ni siquiera admin. Solo lectura.
+model Auditoria {
+  id          Int      @id @default(autoincrement())
+  usuarioId   Int      // quién hizo la acción (el admin)
+  accion      String   // "eliminar_libro" | "editar_docente" | "cambiar_rol" | etc.
+  entidad     String   // "Libro" | "Usuario" | etc.
+  entidadId   Int?
+  detalle     String?  // texto libre, ej. "cambió rol de bibliotecario a admin"
+  fecha       DateTime @default(now())
+}
+
+model Actividad {
+  id     Int     @id @default(autoincrement())
+  nombre String  @unique
+  icono  String? // emoji opcional para el botón
+  orden  Int     @default(0)
+  activo Boolean @default(true) // soft-delete: false = "eliminada"
+
+  @@index([activo])
+}
